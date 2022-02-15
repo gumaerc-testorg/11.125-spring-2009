@@ -3,8 +3,13 @@ content_type: resource
 description: Assignment to design and teach a lesson to the class drawing upon class
   themes, submit a detailed written description of your lesson plan, along with the
   context in which it is set, and write a reflection on the lesson.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/9eb3e99949b74ba04706fe22982c659d_MIT11_125s09_assn_Final_Assignment05.pdf
+file: /media/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/9eb3e99949b74ba04706fe22982c659d_MIT11_125s09_assn_Final_Assignment05.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Calendar and Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Final Assignment
 uid: 9eb3e999-49b7-4ba0-4706-fe22982c659d
