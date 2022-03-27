@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Assignments
 parent_type: CourseSection
+parent_uid: fe4e78e3-d0c6-b80c-a6e9-3b149aeb562b
 resourcetype: Document
 title: Final Assignment
 uid: 9eb3e999-49b7-4ba0-4706-fe22982c659d

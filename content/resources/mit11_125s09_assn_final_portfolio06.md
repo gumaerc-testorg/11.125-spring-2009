@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Assignments
 parent_type: CourseSection
+parent_uid: fe4e78e3-d0c6-b80c-a6e9-3b149aeb562b
 resourcetype: Document
 title: Final Portfolio
 uid: fa48df7d-4add-5954-4b73-1335bb6f502b

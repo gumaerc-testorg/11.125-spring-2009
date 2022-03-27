@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Assignments
 parent_type: CourseSection
+parent_uid: fe4e78e3-d0c6-b80c-a6e9-3b149aeb562b
 resourcetype: Document
 title: Assignment 1 - MIT Observation
 uid: a4484f45-39a7-1b58-3382-bfb42f34eafa

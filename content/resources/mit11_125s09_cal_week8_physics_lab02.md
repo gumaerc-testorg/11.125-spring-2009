@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Assignments
 parent_type: CourseSection
+parent_uid: fe4e78e3-d0c6-b80c-a6e9-3b149aeb562b
 resourcetype: Document
 title: 'Technologies for Learning - Velocity and Acceleration '
 uid: d1461ce8-96a9-d156-2fd5-811ebeb0d085

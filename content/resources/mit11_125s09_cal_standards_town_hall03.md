@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Assignments
 parent_type: CourseSection
+parent_uid: fe4e78e3-d0c6-b80c-a6e9-3b149aeb562b
 resourcetype: Document
 title: Standards Town Hall
 uid: ffd97f8c-2d25-510c-3af4-6b3575e683b0
