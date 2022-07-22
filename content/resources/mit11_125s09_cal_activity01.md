@@ -5,6 +5,7 @@ file: /courses/11-125-introduction-to-education-understanding-and-evaluating-edu
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Activity 1
 uid: c516048b-2078-5913-c331-0afbba6db342
 ---
 Class activity on teaching and communicating without words.
-

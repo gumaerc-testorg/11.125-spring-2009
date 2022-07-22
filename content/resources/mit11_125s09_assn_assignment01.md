@@ -6,6 +6,7 @@ file: /courses/11-125-introduction-to-education-understanding-and-evaluating-edu
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Assignment 1 - MIT Observation
 uid: a4484f45-39a7-1b58-3382-bfb42f34eafa
 ---
 Assignment to observe an MIT class and analyze the behavior of students and teachers. 
-

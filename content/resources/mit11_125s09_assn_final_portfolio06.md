@@ -5,6 +5,7 @@ file: /courses/11-125-introduction-to-education-understanding-and-evaluating-edu
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Final Portfolio
 uid: fa48df7d-4add-5954-4b73-1335bb6f502b
 ---
 Instructions for creating a final portfolio for the course.
-

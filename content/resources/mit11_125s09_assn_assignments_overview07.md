@@ -5,6 +5,7 @@ file: /courses/11-125-introduction-to-education-understanding-and-evaluating-edu
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Assignments for 11.125
 uid: 874a6554-0ea2-1332-0de6-28ff847ac727
 ---
 A list of assignment for the course.
-

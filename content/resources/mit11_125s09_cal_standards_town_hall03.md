@@ -7,6 +7,7 @@ file: /courses/11-125-introduction-to-education-understanding-and-evaluating-edu
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Standards Town Hall
 uid: ffd97f8c-2d25-510c-3af4-6b3575e683b0
 ---
 Group project to prepare an oral presentation on a potential plan by The City of Cambridge to abandon Massachusetts defined standards in favor of locally controlled standards and assessment.
-

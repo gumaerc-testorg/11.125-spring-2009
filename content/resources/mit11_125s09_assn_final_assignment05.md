@@ -7,6 +7,7 @@ file: /courses/11-125-introduction-to-education-understanding-and-evaluating-edu
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Final Assignment
 uid: 9eb3e999-49b7-4ba0-4706-fe22982c659d
 ---
 Assignment to design and teach a lesson to the class drawing upon class themes, submit a detailed written description of your lesson plan, along with the context in which it is set, and write a reflection on the lesson.
-

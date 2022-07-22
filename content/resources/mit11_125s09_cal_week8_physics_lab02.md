@@ -5,6 +5,7 @@ file: /courses/11-125-introduction-to-education-understanding-and-evaluating-edu
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Technologies for Learning - Velocity and Acceleration '
 uid: d1461ce8-96a9-d156-2fd5-811ebeb0d085
 ---
 Overview of a set of experiments on velocity and acceleration.
-
