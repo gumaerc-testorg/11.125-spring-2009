@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'This section provides the schedule of the course, including lecture
+  topics, readings, assignments, and key dates for the course. '
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Calendar and Assignments
 uid: fe4e78e3-d0c6-b80c-a6e9-3b149aeb562b
 ---
@@ -45,7 +50,7 @@ Blogs and portfolios
 
 Goals, expectations, and assignments
 
-Activity 1: teaching without words ([PDF]({{< baseurl >}}/resources/mit11_125s09_cal_activity01))
+Activity 1: teaching without words ({{% resource_link c516048b-2078-5913-c331-0afbba6db342 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -57,7 +62,7 @@ Activity 1: teaching without words ([PDF]({{< baseurl >}}/resources/mit11_125s09
 _[How Students Learn](http://books.nap.edu/openbook.php?record_id=11100&page=79)  (Chapters 1, 5, 9)_
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 1: observations in MIT classrooms ([PDF]({{< baseurl >}}/resources/mit11_125s09_assn_assignment01))
+Assignment 1: observations in MIT classrooms ({{% resource_link a4484f45-39a7-1b58-3382-bfb42f34eafa "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -92,7 +97,7 @@ Current events
 {{< tdopen >}}
 
 
-"Misconceptions Reconceived" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www-unix.oit.umass.edu/~clement/pdf/students_preconceptions_in_introductory_mechanics.pdf))
+"Misconceptions Reconceived" ([PDF](http://www-unix.oit.umass.edu/~clement/pdf/students_preconceptions_in_introductory_mechanics.pdf))
 
 "[More Than Misconceptions](https://doi.org/10.1119/1.18376)"
 
@@ -101,7 +106,7 @@ Current events
 
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 2: conquering your misconceptions ([PDF]({{< baseurl >}}/resources/mit11_125s09_assn_assignment02))
+Assignment 2: conquering your misconceptions ({{% resource_link 5ef326ae-3efe-d379-d8ed-11bd734b419a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -254,7 +259,7 @@ Classroom observations
 
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 3: position paper on differentiated instructions ([PDF]({{< baseurl >}}/resources/mit11_125s09_assn_assignment03))
+Assignment 3: position paper on differentiated instructions ({{% resource_link 22607103-6079-316e-1086-5c4dea706ad2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -298,7 +303,7 @@ Discussion of classroom observations
 
 ### Educational technology and teaching with media
 
-Physics lab ([PDF]({{< baseurl >}}/resources/mit11_125s09_cal_week8_physics_lab02))
+Physics lab ({{% resource_link d1461ce8-96a9-d156-2fd5-811ebeb0d085 "PDF" %}})
 
 Discussion of classroom observations
 
@@ -311,7 +316,7 @@ Discussion of classroom observations
 {{< tdopen >}}
 
 
-"Impact of Educational Technology on Student Achievement." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www2.gsu.edu/~wwwche/Milken%20report.pdf
+"Impact of Educational Technology on Student Achievement." ([PDF](http://www2.gsu.edu/~wwwche/Milken%20report.pdf
             ))
 
 [_Oversold and Underused_](http://books.google.com/books?id=sdSutyVQfzYC&pg=PAfrontcover)
@@ -321,7 +326,7 @@ Discussion of classroom observations
 
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 4: comparison of media ([PDF]({{< baseurl >}}/resources/mit11_125s09_assn_assignment04))
+Assignment 4: comparison of media ({{% resource_link 1aa5f9bb-57ae-6455-b589-2c43a614297c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Assignment 3 due
@@ -385,7 +390,7 @@ Introduce final assignment
 "[Guided Inquiry in the Science Classroom](http://www.nap.edu/openbook.php?record_id=10126&page=475)."
 {{< tdclose >}}
 {{< tdopen >}}
-Final assignment ([PDF]({{< baseurl >}}/resources/mit11_125s09_assn_final_assignment05))
+Final assignment ({{% resource_link 9eb3e999-49b7-4ba0-4706-fe22982c659d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -401,7 +406,7 @@ Final assignment ([PDF]({{< baseurl >}}/resources/mit11_125s09_assn_final_assign
 
 ### Standards town hall
 
-Town hall meeting-standards ([PDF]({{< baseurl >}}/resources/mit11_125s09_cal_standards_town_hall03))
+Town hall meeting-standards ({{% resource_link ffd97f8c-2d25-510c-3af4-6b3575e683b0 "PDF" %}})
 
 Final portfolio info
 
@@ -411,7 +416,7 @@ Final portfolio info
  
 {{< tdclose >}}
 {{< tdopen >}}
-Final portfolio ([PDF]({{< baseurl >}}/resources/mit11_125s09_assn_final_portfolio06))
+Final portfolio ({{% resource_link fa48df7d-4add-5954-4b73-1335bb6f502b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
