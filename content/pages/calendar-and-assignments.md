@@ -91,7 +91,7 @@ MIT observations discussion
 
 Writing introductions
 
-[Current events](http://nl.newsbank.com/nl-search/we/Archives?p_product=SL&p_theme=sl&p_action=search&p_maxdocs=200&s_dispstring=headline(Measure)%20AND%20date(2/9/2009%20to%202/9/2009)&p\_field\_date-0=YMD\_date&p\_params\_date-0=date:B,E&p\_text\_date-0=2/9/2009%20to%202/9/2009)
+[Current events](http://nl.newsbank.com/nl-search/we/Archives?p_product=SL&p_theme=sl&p_action=search&p_maxdocs=200&s_dispstring=headline%28Measure%29%20AND%20date%282/9/2009%20to%202/9/2009)&p\_field\_date-0=YMD\_date&p\_params\_date-0=date:B,E&p\_text\_date-0=2/9/2009%20to%202/9/2009)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -125,14 +125,14 @@ Texas standards and standardized tests
 
 TEKS
 
-\- [High school science standard](http://www.texscience.org/pdf/GeraldSkoog.pdf)     
-\- [High school math standard](http://ritter.tea.state.tx.us/rules/tac/chapter111/ch111c.html)     
+\- [High school science standard](http://www.texscience.org/pdf/GeraldSkoog.pdf)      
+\- [High school math standard](http://ritter.tea.state.tx.us/rules/tac/chapter111/ch111c.html)      
 \- [Middle school science standard](http://www.texscience.org/reviews/science-standards-jan-2009.htm)
 
-TAAS     
-\- 11th grade science standard     
-\- 11th grade math standard     
-\- [Biology standard](http://www2.gsu.edu/~wwwque/standards/biology/biostandards.html)
+TAAS      
+\- 11th grade science standard      
+\- 11th grade math standard      
+\- Biology standard
 
 [Massachusetts state framework-comparison](http://www.doe.mass.edu/frameworks)
 
@@ -176,13 +176,13 @@ Classroom observations
 
 "Multiple Intelligences After 20 Years"
 
-[Multiple Intelligences Test](http://www.bgfl.org/bgfl/custom/resources_ftp/client_ftp/ks3/ict/multiple_int/index.htm)
+[Multiple Intelligences Test](https://www.literacynet.org/mi/assessment/findyourstrengths.html)
 
 [Laboratory Styles](https://pubs.acs.org/doi/10.1021/ed076p543)
 
 [Mixed-Ability Classrooms](http://www.eric.ed.gov/ERICWebPortal/search/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=EJ664495&ERICExtSearch_SearchType_0=no&accno=EJ664495)
 
-[Grading for Success](http://www.ascd.org/publications/educational_leadership/mar01/vol58/num06/toc.aspx)
+[Grading for Success](https://ascd.org/el/articles/grading-for-success)
 
 {{< tdclose >}}{{< tdopen >}}
 Assignment 3: position paper on differentiated instructions ({{% resource_link "22607103-6079-316e-1086-5c4dea706ad2" "PDF" %}})
@@ -222,8 +222,7 @@ Discussion of classroom observations
 
 {{< tdclose >}}{{< tdopen >}}
 
-"Impact of Educational Technology on Student Achievement." (\[PDF\]([http://www2.gsu.edu/~wwwche/Milken%20report.pdf](http://www2.gsu.edu/~wwwche/Milken%20report.pdf)    
-))
+["Impact of Educational Technology on Student Achievement" (PDF).](https://files.eric.ed.gov/fulltext/EJ773197.pdf)
 
 [*Oversold and Underused*](http://books.google.com/books?id=sdSutyVQfzYC&pg=PAfrontcover)
 
