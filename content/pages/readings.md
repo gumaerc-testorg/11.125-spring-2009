@@ -37,7 +37,7 @@ Hammer, David. "[More Than Misconceptions: Multiple Perspective on Student Knowl
 
 Hoff, David J. "[Teaching, Standards, Test Found Not Aligned](http://www.edweek.org/login.html?source=http://www.edweek.org/ew/articles/2001/10/31/09chiefs.h21.html&destination=http://www.edweek.org/ew/articles/2001/10/31/09chiefs.h21.html&levelId=2100)." *Education Week* 21, no. 9 (2001): 6.
 
-Interactive Educational Systems Design, Inc. [*National Online Survey of District Technology Directors Exploring District Use of Web 2.0 Technologies: Executive Summary*](http://www.lightspeedsystems.com/about/NewsDetails.aspx?Teachers-Driving-Web-2.0-Use-in-Schools). 2009.
+Interactive Educational Systems Design, Inc. *National Online Survey of District Technology Directors Exploring District Use of Web 2.0 Technologies: Executive Summary*. 2009.
 
 Kettler, Todd, and Marc Corliss. "[Mathematical Acceleration in a Mixed-Ability Classroom: Applying a Tiered Objectives Model](http://www.eric.ed.gov/ERICWebPortal/search/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=EJ664495&ERICExtSearch_SearchType_0=no&accno=EJ664495)." *Gifted Child Today* 26, no. 1 (2003): 52.
 
