@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Assignment to observe an MIT class and analyze the behavior of students
   and teachers. '
-file: /courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/a4484f4539a71b583382bfb42f34eafa_MIT11_125s09_assn_Assignment01.pdf
+file: /ol-ocw-studio-app/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/a4484f4539a71b583382bfb42f34eafa_MIT11_125s09_assn_Assignment01.pdf
 file_size: 15696
 file_type: application/pdf
 learning_resource_types:
