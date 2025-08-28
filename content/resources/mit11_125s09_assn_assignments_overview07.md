@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A list of assignment for the course.
-file: /courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/874a65540ea213320de628ff847ac727_MIT11_125s09_assn_Assignments_Overview07.pdf
+file: /ol-ocw-studio-app/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/874a65540ea213320de628ff847ac727_MIT11_125s09_assn_Assignments_Overview07.pdf
 file_size: 22027
 file_type: application/pdf
 learning_resource_types:
